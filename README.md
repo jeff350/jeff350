@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Jeff Neel I am a security professional / development / system administrator with an interest in building better 
+### About Me
+I am a security professional / development / system administrator with an interest in building better 
 software and tools to help the open source community. 
 
 ## 🔧 Technologies & Tools
